@@ -1,0 +1,60 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/loading.js"
+    ],
+    "/(DashboardLayout)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/page.js"
+    ],
+    "/(DashboardLayout)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/layout.js"
+    ],
+    "/(DashboardLayout)/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/loading.js"
+    ],
+    "/(DashboardLayout)/campesinos/admin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/campesinos/admin/page.js"
+    ],
+    "/(DashboardLayout)/ui-components/forms/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/ui-components/forms/page.js"
+    ],
+    "/(DashboardLayout)/ui-components/alerts/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/ui-components/alerts/page.js"
+    ],
+    "/(DashboardLayout)/ui-components/ratings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/ui-components/ratings/page.js"
+    ],
+    "/(DashboardLayout)/ui-components/images/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/ui-components/images/page.js"
+    ],
+    "/(DashboardLayout)/ui-components/table/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(DashboardLayout)/ui-components/table/page.js"
+    ]
+  }
+}
