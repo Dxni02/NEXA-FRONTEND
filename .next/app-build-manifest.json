@@ -35,26 +35,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(DashboardLayout)/ui-components/forms/page.js"
-    ],
-    "/(DashboardLayout)/ui-components/alerts/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/ui-components/alerts/page.js"
-    ],
-    "/(DashboardLayout)/ui-components/ratings/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/ui-components/ratings/page.js"
-    ],
-    "/(DashboardLayout)/ui-components/images/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/ui-components/images/page.js"
-    ],
-    "/(DashboardLayout)/ui-components/table/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/ui-components/table/page.js"
     ]
   }
 }

@@ -1,9 +1,6 @@
 {
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/(DashboardLayout)/page": "app/(DashboardLayout)/page.js",
-  "/(DashboardLayout)/ui-components/forms/page": "app/(DashboardLayout)/ui-components/forms/page.js",
-  "/(DashboardLayout)/ui-components/alerts/page": "app/(DashboardLayout)/ui-components/alerts/page.js",
   "/(DashboardLayout)/campesinos/admin/page": "app/(DashboardLayout)/campesinos/admin/page.js",
-  "/(DashboardLayout)/ui-components/ratings/page": "app/(DashboardLayout)/ui-components/ratings/page.js",
-  "/(DashboardLayout)/ui-components/images/page": "app/(DashboardLayout)/ui-components/images/page.js",
-  "/(DashboardLayout)/ui-components/table/page": "app/(DashboardLayout)/ui-components/table/page.js"
+  "/(DashboardLayout)/ui-components/forms/page": "app/(DashboardLayout)/ui-components/forms/page.js"
 }
