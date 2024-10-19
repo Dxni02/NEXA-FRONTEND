@@ -5,7 +5,7 @@
   Flexy Next Js Free Admin
 </h1>
 
-<!-- Main image of -->
+<!-- Main image of Template -->
 <a target="_blank" href="https://www.wrappixel.com/templates/flexy-next-js-free-admin-template/">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2022/01/flexy-nextjs-free.jpg" />
 </a>
