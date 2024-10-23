@@ -1,40 +1,30 @@
 {
   "pages": {
+    "/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/loading.js"
+    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/loading": [
+    "/(DashboardLayout)/loading": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/loading.js"
-    ],
-    "/(DashboardLayout)/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/page.js"
+      "static/chunks/app/(DashboardLayout)/loading.js"
     ],
     "/(DashboardLayout)/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(DashboardLayout)/layout.js"
     ],
-    "/(DashboardLayout)/loading": [
+    "/(DashboardLayout)/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/loading.js"
-    ],
-    "/(DashboardLayout)/campesinos/admin/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/campesinos/admin/page.js"
-    ],
-    "/(DashboardLayout)/ui-components/forms/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/ui-components/forms/page.js"
+      "static/chunks/app/(DashboardLayout)/page.js"
     ]
   }
 }
